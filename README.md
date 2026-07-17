@@ -252,6 +252,6 @@ Refresh the data connection if required.
 
 ## 👨‍💻 Author
 
-**Mallula Purna Chandra**
+**Ushaswini Balla**
 
-GitHub: https://github.com/PurnaMC
+GitHub: https://github.com/Ushaswini2904
