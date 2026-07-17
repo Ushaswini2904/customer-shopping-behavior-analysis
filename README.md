@@ -14,7 +14,7 @@ The project follows a complete analytics workflow starting from data cleaning an
 
 ## 📊 Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](powerbi/dashboard.png)
+![Customer Shopping Behavior Dashboard](power%20bi/dashboard.png)
 
 ---
 
